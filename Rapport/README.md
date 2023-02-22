@@ -52,3 +52,14 @@ Ce dernier test ma permit d'avoir le meilleur résultat : 0.9984
 ![](img/test5.png)
 ![](img/test_5.png)
 
+
+# Interface 
+
+![](img/interface.PNG)
+
+![](img/interface1.PNG)
+
+![](img/interface2.PNG)
+
+
+
